@@ -1,0 +1,19 @@
+{
+  "name": "newproj",
+  "version": "1.0.0",
+  "description": "fcc api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "fcc"
+  ],
+  "author": "Ebuka Hills",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
